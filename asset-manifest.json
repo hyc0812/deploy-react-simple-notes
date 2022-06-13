@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deploy-react-simple-notes/static/css/main.1d3d7b9b.css",
+    "main.js": "/deploy-react-simple-notes/static/js/main.c2e8ca6d.js",
+    "index.html": "/deploy-react-simple-notes/index.html",
+    "main.1d3d7b9b.css.map": "/deploy-react-simple-notes/static/css/main.1d3d7b9b.css.map",
+    "main.c2e8ca6d.js.map": "/deploy-react-simple-notes/static/js/main.c2e8ca6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d3d7b9b.css",
+    "static/js/main.c2e8ca6d.js"
+  ]
+}
